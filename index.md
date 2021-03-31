@@ -6,4 +6,8 @@ On this website, you will find all the projects Ashley has worked on during her 
 
 [My Past Projects](./projects)
 
-![Banner](./banner.jpeg)
+![Banner](route)
+
+**bold**
+_italics_
+
