@@ -1,0 +1,7 @@
+name: Website
+title: null
+title: CSC109 Assingment 8 HomePage
+description: Git Educated
+plugins:
+  - jemoji
+theme: jekyll-theme-midnight 
