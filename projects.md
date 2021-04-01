@@ -1,14 +1,13 @@
 # My Projects 
 
-## [Solitare](https://github.com/amandaqu18/CSC)
-[link](url)
+## [Solitare](https://github.com/ash730/final-project)
+Class project that simulates a Solitare game in the programming language Scala. 
+- Completion Year: 2018 
 
-Group project done in Scala that allows the user to play solitare. 
+## [DMV Simulator](https://github.com/ash730/DMVSimulator)
+Project that simulates a DMV, the purpose of this project was to get used to using GIT with other members. 
+- Completion Year: 2021
 
-## [DMV Simulator](https://github.com/amandaqu18/-DmvSimulator)
-
-Lab assignment done in Java to learn more about merge resolve conflicts. 
-
-## [Help Quinnipiac](https://github.com/mbadalamente/Module6)
-
-Lab group assignment to make an app that acts as an aid for students at Quinnipiac.
+## [Quinnipiac Mental Health Help](https://github.com/ash730/QUMentalHealth)
+Group Project idea that could potentionlly help mental health at Quinnipiac Univeristy.
+- Completion Year: 2021
