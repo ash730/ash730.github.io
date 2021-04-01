@@ -6,10 +6,9 @@ I had went to a technically highschool in Waterbury, CT. While attending the sch
 
 
 ## University 
-
 I am currently a Junior studying Computer Science at Quinnipiac University.
 
-# What got me into the field
+# What got me into Computer Science
 What made me change my career field was the creativity and complex thinking that goes with this field. While watching my father do personal projects on the side line of his work, is what really drove me into going to school. Using modern technology and creativity to create anything you want. 
 
 # Facts about Me
