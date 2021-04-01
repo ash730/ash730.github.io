@@ -1,13 +1,11 @@
 ## Welcome to Ashleys's About Page
+Welcome to Ashleys Portfolio! 
+On this website you will find past projects and discover who Ashley Mills is as a person. 
 
-On this website, you will find all the projects Ashley has worked on during her time at Quinnipiac University that involved GitHub as well as more information about the kind of person Ashley is.
+[Who is AShley Mills?](./about)
 
-[Learn About Ashley](./about)
+[Completed Projects](./projects)
 
-[My Past Projects](./projects)
+![Banner](./homepage.jpeg)
 
-![Banner](route)
-
-**bold**
-_italics_
 
