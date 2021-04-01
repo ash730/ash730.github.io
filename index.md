@@ -6,6 +6,6 @@ On this website you will find past projects and discover who Ashley Mills is as 
 
 [Completed Projects](./projects)
 
-![Banner](./homepage.jpeg)
+![Banner](./homepage.jpg)
 
 
