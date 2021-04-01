@@ -1,7 +1,4 @@
-name: Website
-title: null
+name: Ashley Mills
 title: CSC109 Assingment 8 HomePage
-description: Git Educated
-plugins:
-  - jemoji
+description: Portfolio
 theme: jekyll-theme-slate 
