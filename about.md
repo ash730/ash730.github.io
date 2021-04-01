@@ -17,10 +17,15 @@ What made me change my career field was the creativity and complex thinking that
 - Pets: 4 (_birds and 1 dog_)
 
 ## My Pets 
-- Names: Baby, Gabby, Hazel, Lulu
+##### Names: 
+-  Baby: 11 Years Old, Green Cheek Conure
+-  Gabby: 9 Years Old, Cinnamon Conure
+-  Hazel: 6 Years Old, Blue Crown Conure
+-  Lulu: 4 Years Old, Umbrella Cockatoo
 - The bird in the photo is the youngest Lulu.
 ![Banner](./lulu.jpg)
 
-- Name: Roxi 
+- Name: Roxi 1 year old
+- Fun fact: She is a Boston Terrior and loves to be wrapped up in blankets so she can cuddle! 
 ![Banner](./dogPet.jpg)
 
