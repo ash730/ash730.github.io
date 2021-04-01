@@ -16,7 +16,7 @@ What made me change my career field was the creativity and complex thinking that
 - Siblings: 1 older brother
 - Pets: 4 (_birds and 1 dog_)
 
-##My Pets 
+## My Pets 
 - Names: Baby, Gabby, Hazel, Lulu
 - The bird in the photo is the youngest Lulu.
 ![Banner](./lulu.jpg)
