@@ -13,7 +13,7 @@ What made me change my career field was the creativity and complex thinking that
 
 # Facts about Me
 ** Ashley Mills**
-![Banner](./me.jpeg)
+![Banner](./me.jpg)
 
 - Age: 20
 - Big 3: Leo sun and moom and libra ascending.
@@ -25,9 +25,9 @@ What made me change my career field was the creativity and complex thinking that
 ** 4 Birds **
 - Names: Baby, Gabby, Hazel, Lulu
 - The bird in the photo is the youngest Lulu.
-![Banner](./lulu.jpeg)
+![Banner](./lulu.jpg)
 
 **My Dog** 
 - Name: Roxi 
-![Banner](./dogPet.jpeg)
+![Banner](./dogPet.jpg)
 
